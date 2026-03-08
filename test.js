@@ -52,4 +52,6 @@ console.log("bu büyük sayı:",tetete);
 console.log(test7);
 
 //typeof
-console.log(typeof tetete);
+//console.log(typeof tetete);
+
+
