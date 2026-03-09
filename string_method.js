@@ -23,3 +23,15 @@ console.log(d.indexOf("d",5));//ilk bulduğu a'nın indexini verir
 
 //stringin uzunluğunu bulmak
 console.log(d.length);
+    console.log(a.startsWith("merhaba")) // stringin belirli bir karakterle başlayıp başlamadığını kontrol eder
+    console.log(a.endsWith("world")) // stringin belirli bir karakterle bitip bitmediğini kontrol eder
+    console.log(a.includes("lo")) // stringin belirli bir karakteri içerip içermediğini kontrol eder
+    var e="herkes fazla konuşabilir mi?"
+    //stringi parçalama
+    console.log(e);
+    //console.log(e.slice(1));
+    console.log(a.substring(1));
+
+    //Büyük ve küçük harflere çevirme
+    console.log(a.toUpperCase());
+    console.log(a.toLowerCase());
