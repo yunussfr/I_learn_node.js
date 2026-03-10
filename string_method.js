@@ -35,3 +35,8 @@ console.log(d.length);
     //Büyük ve küçük harflere çevirme
     console.log(a.toUpperCase());
     console.log(a.toLowerCase());
+
+    //stringi bölme
+    var f="123456 "
+    console.log(f.trim());//başında ve sonundaki boşlukları siler
+    
